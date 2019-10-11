@@ -1,0 +1,9 @@
+C:\Users\PC-01\Desktop\AULAS 2019-2\Estruturall\AnaliseEmpirica\AnaliseEmpirica\bin\Debug\AnaliseEmpirica.exe.config
+C:\Users\PC-01\Desktop\AULAS 2019-2\Estruturall\AnaliseEmpirica\AnaliseEmpirica\bin\Debug\AnaliseEmpirica.exe
+C:\Users\PC-01\Desktop\AULAS 2019-2\Estruturall\AnaliseEmpirica\AnaliseEmpirica\bin\Debug\AnaliseEmpirica.pdb
+C:\Users\PC-01\Desktop\AULAS 2019-2\Estruturall\AnaliseEmpirica\AnaliseEmpirica\obj\Debug\AnaliseEmpirica.Form1.resources
+C:\Users\PC-01\Desktop\AULAS 2019-2\Estruturall\AnaliseEmpirica\AnaliseEmpirica\obj\Debug\AnaliseEmpirica.Properties.Resources.resources
+C:\Users\PC-01\Desktop\AULAS 2019-2\Estruturall\AnaliseEmpirica\AnaliseEmpirica\obj\Debug\AnaliseEmpirica.csproj.GenerateResource.cache
+C:\Users\PC-01\Desktop\AULAS 2019-2\Estruturall\AnaliseEmpirica\AnaliseEmpirica\obj\Debug\AnaliseEmpirica.exe
+C:\Users\PC-01\Desktop\AULAS 2019-2\Estruturall\AnaliseEmpirica\AnaliseEmpirica\obj\Debug\AnaliseEmpirica.pdb
+C:\Users\PC-01\Desktop\AULAS 2019-2\Estruturall\AnaliseEmpirica\AnaliseEmpirica\obj\Debug\AnaliseEmpirica.csprojAssemblyReference.cache
